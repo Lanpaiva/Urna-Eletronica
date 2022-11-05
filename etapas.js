@@ -42,7 +42,7 @@ let etapas = [
               partido: 'PHP',
               vice: 'Zul',
               fotos:[
-                {url:'img5.jpeg', legenda: 'Prefeito'},
+                {url:'img5.jpeg', legenda: 'Prefeito', small: false},
                 {url:'img6.jpeg', legenda: 'Vice-Prefeita', small: true}
 
               ]
