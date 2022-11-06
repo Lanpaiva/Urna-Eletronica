@@ -12,6 +12,29 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.youtube-title {
+  color:rgb(236, 24, 24);
+  flex: 1;
+  margin-left: 80px;
+  height: 20px;
+  font-size: larger;
+}
+
+.box-youtube {
+  flex: 1;
+  float: left;
+  max-width:  100%;
+  margin-bottom: 30px;
+  border-radius:  15px;;
+  margin-right: 15px;
+  padding: 30px;
+  background-color: #d3d3d3;
+}
+
+.youtube {
+  max-width: 1200px;
+}
+
 .urna {
 background-color: #dbd5c9;
 padding: 30px;
